@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7fd2f9754b9d4b99bff6bc388aff3c7
+timeCreated: 1489960172
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Creator: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - bridge: {fileID: 1980758868852160, guid: 49e3aaea82a794d46b096ad70a4b111f, type: 2}
+  - creatorAudio: {instanceID: 0}
+  - iceBreak: {fileID: 8300000, guid: 89968f37dceb3f4468d50ae520862ea6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
